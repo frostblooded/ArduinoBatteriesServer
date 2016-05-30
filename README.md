@@ -1,2 +1,2 @@
-# AttendanceCheck---Server
-The server for the AttendanceCheck android app.
+# ArduinoBatteriesServer
+The server for out batteries Arduino project.
